@@ -1,0 +1,5 @@
+__pycache__/
+.streamlit/secrets.toml
+*.pyc
+batch/enrichment-cache.json
+batch/*.html
